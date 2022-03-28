@@ -9,6 +9,8 @@ img {
 
 ul.center {
     font-size: 32px;
+    display: table;
+    margin: auto;
 }
 
 html {
