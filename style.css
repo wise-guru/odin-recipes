@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-img.center {
+img {
     display:block;
     margin: auto;
 }
@@ -13,4 +13,9 @@ ul.center {
 
 html {
     background-color: aquamarine;
+}
+
+img.recipe {
+    height: auto;
+    width: 700px;
 }
